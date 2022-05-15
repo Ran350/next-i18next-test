@@ -1,0 +1,12 @@
+{
+  "user": {
+    "1": {
+      "name": "Suzuki",
+      "age": "twenty"
+    },
+    "2": {
+      "name": "Tanaka",
+      "age": "thirty"
+    }
+  }
+}
